@@ -1,0 +1,11 @@
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\bin\Debug\netcoreapp3.1\OOP-DifferenceAssessment.exe
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\bin\Debug\netcoreapp3.1\OOP-DifferenceAssessment.deps.json
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\bin\Debug\netcoreapp3.1\OOP-DifferenceAssessment.runtimeconfig.json
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\bin\Debug\netcoreapp3.1\OOP-DifferenceAssessment.runtimeconfig.dev.json
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\bin\Debug\netcoreapp3.1\OOP-DifferenceAssessment.dll
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\bin\Debug\netcoreapp3.1\OOP-DifferenceAssessment.pdb
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\obj\Debug\netcoreapp3.1\OOP-DifferenceAssessment.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\obj\Debug\netcoreapp3.1\OOP-DifferenceAssessment.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\obj\Debug\netcoreapp3.1\OOP-DifferenceAssessment.AssemblyInfo.cs
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\obj\Debug\netcoreapp3.1\OOP-DifferenceAssessment.dll
+C:\Users\Will\source\repos\OOP-DifferenceAssessment\OOP-DifferenceAssessment\obj\Debug\netcoreapp3.1\OOP-DifferenceAssessment.pdb
